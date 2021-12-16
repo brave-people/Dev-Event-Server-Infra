@@ -6,7 +6,7 @@
 <table>
     <thead>
         <tr>
-            <th> # </th>
+            <th> ㅤ</th>
             <th> 개발 DB </th>
             <th> 상용 DB </th>
             <th> 개발 서비스 서버 </th>
@@ -17,11 +17,11 @@
     <tbody>
         <tr>
             <td> 21년 12월 </td>
-            <td> 0\ </td>
-            <td> 0\ </td>
-            <td> 0\ </td>
-            <td> 0\ </td>
-            <td> 0\ </td>
+            <td> 0₩ </td>
+            <td> 0₩ </td>
+            <td> 0₩ </td>
+            <td> 0₩ </td>
+            <td> 0₩ </td>
         </tr>
         <tr>
             <td> - </td>
@@ -35,9 +35,9 @@
 </table>
 
 
+
 <br />
 <br />
-<hr />
 <div align=center>
   <hr />
     <h3> 용감한 친구들 with 남송리 삼번지 </h3>

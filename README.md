@@ -4,9 +4,73 @@
 
 <br />
 
-## DB 인스턴스 
+## 1. 배포 서버
 
-### 인스턴스 스팩
+### 1-1. 인스턴스 스팩
+
+<table>
+    <thead>
+        <tr>
+            <th> 항목 </th>
+            <th> 정보 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> CPU </td>
+            <td> 1 core </td>
+        </tr>
+        <tr>
+            <td> RAM </td>
+            <td> 512MB </td>
+        </tr>
+        <tr>
+            <td> Network Bandwidth </td>
+            <td> 2TB/Month </td>
+        </tr>
+    </tbody>
+</table>
+
+> 참고. [Heroku Dynos](https://www.heroku.com/dynos)
+
+<br />
+
+### 1-2. 인스턴스 정보
+
+<table>
+    <thead>
+        <tr>
+            <th> 항목 </th>
+            <th> URL </th>
+            <th> 관리자 </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 개발 </td>
+            <td> TBA </td>
+            <td> osj </td>
+        </tr>
+        <tr>
+            <td> 상용 </td>
+            <td> TBA </td>
+            <td> covenant </td>
+        </tr>
+    </tbody>
+</table>
+
+<br />
+
+### 1-3. 배포 파이프라인
+- Git Action
+    - Private 저장소에 대해서 1달 2000분 무료
+
+<hr />
+<br />
+
+## 2. DB 인스턴스 
+
+### 2-1. 인스턴스 스팩
 
 <table>
     <thead>
@@ -47,7 +111,7 @@
 
 <br />
 
-### 인스턴스 정보
+### 2-2. 인스턴스 정보
 
 <table>
     <thead>
@@ -77,74 +141,8 @@
 <hr />
 <br />
 
-## 배포 서버
-
-### 인스턴스 스팩
-
-<table>
-    <thead>
-        <tr>
-            <th> 항목 </th>
-            <th> 정보 </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td> CPU </td>
-            <td> 1 core </td>
-        </tr>
-        <tr>
-            <td> RAM </td>
-            <td> 512MB </td>
-        </tr>
-        <tr>
-            <td> Network Bandwidth </td>
-            <td> 2TB/Month </td>
-        </tr>
-    </tbody>
-</table>
-
-> 참고. [Heroku Dynos](https://www.heroku.com/dynos)
-
-<br />
-
-### 인스턴스 정보
-
-<table>
-    <thead>
-        <tr>
-            <th> 항목 </th>
-            <th> URL </th>
-            <th> 관리자 </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td> 개발 </td>
-            <td> 문의 </td>
-            <td> covenant </td>
-        </tr>
-        <tr>
-            <td> 상용 </td>
-            <td> TODO </td>
-            <td> covenant </td>
-        </tr>
-    </tbody>
-</table>
-
-<br />
-
-### 배포 파이프라인
-- Git Action
-    - Private 저장소에 대해서 1달 2000분 무료
-
-<hr />
-<br />
-
-
 <br />
 <br />
-<hr />
 <div align=center>
   <hr />
     <h3> 용감한 친구들 with 남송리 삼번지 </h3>
