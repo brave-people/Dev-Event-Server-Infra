@@ -6,8 +6,6 @@
 
 ## DB 인스턴스 
 
-<br />
-
 ### 인스턴스 스팩
 
 <table>
@@ -56,14 +54,14 @@
         <tr>
             <th> 항목 </th>
             <th> URL </th>
-            <th> DB 사용자 </th>
+            <th> 계정명 </th>
             <th> 관리자 </th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td> 개발 </td>
-            <td> TBA </td>
+            <td> 문의: covenant </td>
             <td> covenant </td>
             <td> covenant </td>
         </tr>
@@ -134,19 +132,20 @@
     </tbody>
 </table>
 
-<hr />
 <br />
 
 ### 배포 파이프라인
 - Git Action
     - Private 저장소에 대해서 1달 2000분 무료
 
+<hr />
+<br />
+
 
 <br />
 <br />
 <hr />
 <div align=center>
-  <img src="https://github.com/brave-people/Dev-Event/blob/master/static/bottom.png?raw=true" width="80%">
   <hr />
     <h3> 용감한 친구들 with 남송리 삼번지 </h3>
   <hr />
