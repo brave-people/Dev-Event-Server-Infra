@@ -63,7 +63,7 @@
 
 ### 1-3. 배포 파이프라인
 - Git Action
-    - Private 저장소에 대해서 1달 2000분 무료
+    - Private 저장소는 1달 2000분 무료
 
 <hr />
 <br />
@@ -86,11 +86,7 @@
         </tr>
         <tr>
             <td> CPU </td>
-            <td> 1 core OCPU(2.0 GHz AMD EPYC™ 7551 (Naples)) </td>
-        </tr>
-        <tr>
-            <td> CPU </td>
-            <td> 1 core OCPU </td>
+            <td> 1 core 2.0 GHz AMD EPYC™ 7551 (Naples) </td>
         </tr>
         <tr>
             <td> RAM </td>
@@ -103,6 +99,13 @@
         <tr>
             <td> Volume Size </td>
             <td> 50GB </td>
+        </tr>
+        <tr>
+            <td> OS </td>
+            <td> 
+                Canonical Ubuntu 20.04 <br/>
+                2021.12.01-0
+            </td>
         </tr>
     </tbody>
 </table>
@@ -117,9 +120,10 @@
     <thead>
         <tr>
             <th> 항목 </th>
-            <th> URL </th>
+            <th> IP </th>
             <th> 계정명 </th>
             <th> 관리자 </th>
+            <th> 생성일 </th>
         </tr>
     </thead>
     <tbody>
@@ -128,12 +132,13 @@
             <td> 문의: covenant </td>
             <td> covenant </td>
             <td> covenant </td>
+            <td> 21. 12. 16 </td>
         </tr>
         <tr>
             <td> 상용 </td>
-            <td> TODO </td>
-            <td> TODO </td>
+            <td> 문의: covenant </td>
             <td> covenant </td>
+            <td> 21. 12. 17 </td>
         </tr>
     </tbody>
 </table>
