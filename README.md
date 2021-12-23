@@ -43,27 +43,33 @@
             <th> 항목 </th>
             <th> URL </th>
             <th> 관리자 </th>
+            <th> 생성일 </th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td> 개발 </td>
-            <td> TBA </td>
+            <td> 사용시 문의 </td>
             <td> osj </td>
+            <th> 21. 12. - </th>
         </tr>
         <tr>
             <td> 상용 </td>
-            <td> TBA </td>
+            <td> 사용시 문의 </td>
             <td> covenant </td>
+            <th> 21. 12. 23 </th>
         </tr>
     </tbody>
 </table>
+
+> *현재 API 서버는 FE 개발완료 전까지 FE에게만 재공하고 있습니다.
 
 <br />
 
 ### 1-3. 배포 파이프라인
 - Git Action
     - Private 저장소는 1달 2000분 무료
+    - 배포 완료까지 1분 30초
 
 <hr />
 <br />
@@ -137,6 +143,7 @@
         <tr>
             <td> 상용 </td>
             <td> 문의: covenant </td>
+            <td> covenant </td>
             <td> covenant </td>
             <td> 21. 12. 17 </td>
         </tr>
