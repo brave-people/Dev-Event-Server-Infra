@@ -1,10 +1,17 @@
 <div align=center>
-    <h1> Dev Event Server 인프라 </h1>
+    <h1> Dev Event Server 인프라 💻 </h1>
 </div>
 
 <br />
 
-## 1. 배포 서버
+## 0. 아키텍처
+
+<img src="./_static/architecture.png">
+
+<hr />
+<br />
+
+## 1. 웹 서버
 
 ### 1-1. 인스턴스 스팩
 
@@ -17,21 +24,34 @@
     </thead>
     <tbody>
         <tr>
+            <td> Shape name </td>
+            <td> VM.Standard.E2.1.Micro </td>
+        </tr>
+        <tr>
             <td> CPU </td>
-            <td> 1 core </td>
+            <td> 1 core 2.0 GHz AMD EPYC™ 7551 (Naples) </td>
         </tr>
         <tr>
             <td> RAM </td>
-            <td> 512MB </td>
+            <td> 1GM </td>
         </tr>
         <tr>
             <td> Network Bandwidth </td>
-            <td> 2TB/Month </td>
+            <td> 0.48 Gbps </td>
+        </tr>
+        <tr>
+            <td> Volume Size </td>
+            <td> 50GB </td>
+        </tr>
+        <tr>
+            <td> OS </td>
+            <td> 
+                Canonical Ubuntu 20.04 <br/>
+                2021.12.01-0
+            </td>
         </tr>
     </tbody>
 </table>
-
-> 참고. [Heroku Dynos](https://www.heroku.com/dynos)
 
 <br />
 
@@ -56,13 +76,11 @@
         <tr>
             <td> 상용 </td>
             <td> 사용시 문의 </td>
-            <td> covenant </td>
+            <td> osj </td>
             <th> 21. 12. 23 </th>
         </tr>
     </tbody>
 </table>
-
-> *현재 API 서버는 FE 개발완료 전까지 FE에게만 재공하고 있습니다.
 
 <br />
 
